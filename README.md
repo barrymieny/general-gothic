@@ -10,7 +10,7 @@ The extra light weight is Lightline Gothic, regular is News Gothic, and black is
 
 ## Disclaimer
 
-This initial version is rough. Nothing has been set up apart from defining the stems.
+This initial version is rough. Nothing has been set up apart from defining the stems. (And some basic kerning it seems.)
 
 The glyph coverage is not even close to what we expect these days -- only Latin uppercase and lowercase, numbers, and basic punctuation. I added alternate single-storey lowercase _a_ and _g_ glyphs, though.
 
